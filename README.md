@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darrenng04
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Data Analytics with SQL and R studio
+- 🌱 I’m currently learning Data Analytics through Python, R, and SQL.
 - 💞️ I’m looking to collaborate on Data Projects
 - 📫 How to reach me: email --> darrenng1704@gmail.com
 - 😄 Pronouns: He/Him
