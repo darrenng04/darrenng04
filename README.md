@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @darrenng04
-- 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Data Analytics through Python, R, and SQL.
-- 💞️ I’m looking to collaborate on Data Projects
+- 👀 I’m interested in Agentic AI and Consulting
 - 📫 How to reach me: email --> darrenng1704@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have never broken any bones in my body.
 
 <!---
 darrenng04/darrenng04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
